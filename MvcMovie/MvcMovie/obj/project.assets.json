@@ -12949,11 +12949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Research\\Working\\ASP_NET_Core\\Working\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "D:\\Research\\Working\\ASP_NET_Core\\Working\\MvcMovie_Git\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "D:\\Research\\Working\\ASP_NET_Core\\Working\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "D:\\Research\\Working\\ASP_NET_Core\\Working\\MvcMovie_Git\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\APH01\\.nuget\\packages\\",
-      "outputPath": "D:\\Research\\Working\\ASP_NET_Core\\Working\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "D:\\Research\\Working\\ASP_NET_Core\\Working\\MvcMovie_Git\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
